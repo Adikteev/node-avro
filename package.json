@@ -1,0 +1,6 @@
+{
+    "name": "avro",
+    "description": "Avro",
+    "version": "0.0.0",
+    "main": "./avro"
+}

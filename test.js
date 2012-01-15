@@ -1,6 +1,6 @@
 var fs = require('fs'), a = require('avro');
 
-var schema = JSON.parse(fs.readFileSync('search', 'utf8'));
+var schema = JSON.parse(fs.readFileSync('search.avsc', 'utf8'));
 
 out = a.encode(schema, {"query":"search"});
 

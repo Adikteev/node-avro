@@ -1,8 +1,8 @@
-By downloading any files from this repository, you are agreeing to the terms and conditions of the license, 
-available at https://www.x.com/developers/xcommerce/products/developer-package/license.
-
-
 # Native Javascript Avro Implementation
+
+## License
+
+By downloading any files from this repository, you are agreeing to the terms and conditions of the license that govern the X.commerce Contrarcts.  The license is available at [https://www.x.com/developers/xcommerce/products/developer-package/license](https://www.x.com/developers/xcommerce/products/developer-package/license).
 
 ## Background
 
